@@ -1,0 +1,2 @@
+1. Before development for auto compile:
+   Run Ctrl + shift + b in vscode and select ts:build
